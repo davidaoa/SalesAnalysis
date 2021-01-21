@@ -1,1 +1,3 @@
 # SalesAnalysis
+
+In this project, Python Pandas and Matplotlib are used to analyze and answer common business related questions of about 12 months worth of sales data. The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc. I begin this project by cleaning the data so that it is suitable to analyze and then I furthermore answer questions that help summarize how the company has been performing in terms of sales and what the company should continue doing and what they should avoid completely. This will better help the company know how to tackle the upcoming year in order to meet their business goals.
